@@ -1,7 +1,5 @@
 # macchine_coffee_IOT
-Ecco la versione del README in **italiano**, organizzata e pronta all’uso:
 
----
 
 # 🏷 Progetto: Macchina del caffè con CoAP e Python
 
