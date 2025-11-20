@@ -157,5 +157,3 @@ Questo progetto insegna:
 * Test del server con più client
 
 
-
-Vuoi che faccia anche quello?
